@@ -1,4 +1,6 @@
-Hey👋, I'm Julian, a software enthusiast and Software Engineering student from 🇨🇴. Actively learning Golang, Rust, Dart, Typescript, C/C++, and more.
+Hey👋
+
+I'm Julian, a software enthusiast and Software Engineering student from 🇨🇴. Actively learning Golang, Rust, Dart, Typescript, C/C++, and more.
 
 I love Open Source, always looking for projects where I can contribute on 👀
 
